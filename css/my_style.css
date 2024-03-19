@@ -19,3 +19,12 @@ p.redred{
 .shblue{
     color: #9d88c9;
 }
+
+.expedu_icon { 
+color: black;
+} 
+
+.expedu_icon:hover{
+background-color: black;
+color: white;
+}
