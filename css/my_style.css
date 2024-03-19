@@ -21,10 +21,10 @@ p.redred{
 }
 
 .expedu_icon { 
-color: black;
+color: #1a2c12;
 } 
 
 .expedu_icon:hover{
-background-color: black;
-color: white;
+background-color: #1a2c12;
+color: #da9954;
 }
