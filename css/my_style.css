@@ -21,7 +21,7 @@ p.redred{
     background-color:#1a2c12 ; 
     font-family: 'Noto Serif TC',sans-serif;
 
-    
+
 
 }
 .shblue{
@@ -35,4 +35,7 @@ color: #1a2c12;
 .expedu_icon:hover{
 background-color: #1a2c12;
 color: #da9954;
+} 
+p.nen{
+    text-align: center;
 }
