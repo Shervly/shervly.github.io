@@ -1,3 +1,9 @@
+.bg-primary{
+    background-color:black !important;
+    background-image: url(../assets/img/m.jpg);
+}
+
+
 *{
     letter-spacing: 0.8px;
     line-height: 1.5em;
