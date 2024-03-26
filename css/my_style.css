@@ -6,6 +6,8 @@ body{
     font-family: 'Noto Sans TC',sans-serif;
 }
 p.redred{
+    border: 3px dashed;
+    border-color: #da9954;
     color: #da9954;
     font-size: 40px;
     text-align: center;
