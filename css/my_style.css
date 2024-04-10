@@ -5,7 +5,19 @@
     background-size: cover;
     background-position: center;
 }
+ol.shlist>li:hover{
+    list-style-type: decimal;
+    background-color: #1a2c12;
+    color: #da9954;
+}
+table.shlist{
+    width: 88%;
+    background-color:#3b6b27;
+    color: rgb(162, 136, 41);
+    background-position: center;
+    text-align: center;
 
+}
 
 *{
     letter-spacing: 0.8px;
@@ -20,7 +32,7 @@ p.redred{
     color: #da9954;
     font-size: 40px;
     text-align: center;
-    text-indent: 2em;
+    text-indent: 2;
     background-color:#1a2c12 ; 
     font-family: 'Noto Serif TC',sans-serif;
 
