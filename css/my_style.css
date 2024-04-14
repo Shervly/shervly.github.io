@@ -7,18 +7,32 @@
 }
 ol.shlist>li:hover{
     list-style-type: decimal;
-    background-color: #1a2c12;
-    color: #da9954;
+    background-color: #da9954;
+    color: #1a2c12;
 }
 table.shlist{
-    width: 88%;
-    background-color:#3b6b27;
-    color: rgb(162, 136, 41);
-    background-position: center;
+    width: 80%;
+    background-color: black;
+    border-collapse: separate;
     text-align: center;
-
 }
 
+
+table.shlist th{
+    text-align: center;
+    border: 80px #1a2c12;
+    background-color:#1a2c12;
+    color: #da9954;
+    border-collapse:collapse
+}    
+table.shlist td{ 
+    text-align: center;
+    background-color: #1a2c12;
+    color: #da9954;
+    text-align: center;
+    border-collapse:collapse ;
+    border: 10px red;
+}
 *{
     letter-spacing: 0.8px;
     line-height: 1.5em;
