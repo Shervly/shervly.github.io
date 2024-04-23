@@ -53,10 +53,23 @@ div#redred{
     text-align: center;
     text-indent: 2;
     background-color:#1a2c12 ; 
-    font-family: 'Noto Serif TC',sans-serif;
+    font-family: 'Noto Serif TC',sans-serif; 
+    overflow: hidden;
 
 
 
+}
+  
+.overflowtest{
+    background-color: azure;
+    color: #da9954;
+    padding: 20px 10px;
+    border-radius: 15px;
+    width: 50%;
+    margin: 30px auto;
+    height: 100px;
+    overflow: hidden; 
+    text-align: center;
 }
 
 .sh80{
