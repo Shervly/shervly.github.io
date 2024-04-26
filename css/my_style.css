@@ -60,6 +60,10 @@ div#redred{
 
 }
   
+.hr{
+    margin: auto;
+}
+
 .overflowtest{
     background-color: azure;
     color: #da9954;
@@ -91,4 +95,4 @@ color: #da9954;
 } 
 p.nen{
     text-align: center;
-}
+} 
