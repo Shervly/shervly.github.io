@@ -29,7 +29,7 @@ table.shlist th{
 }    
 table.shlist td{ 
     text-align: center;
-    background-color: #1a2c12;
+    background-color:navy;
     color: #da9954;
     text-align: center;
     border-collapse:collapse ;
@@ -59,9 +59,14 @@ div#redred{
 
 
 }
-  
-.hr{
-    margin: auto;
+ 
+.icon{
+    text-align: center;
+}
+
+
+.nen{
+    background-color:rgb(0, 0, 0) ;
 }
 
 .overflowtest{
@@ -96,3 +101,4 @@ color: #da9954;
 p.nen{
     text-align: center;
 } 
+
