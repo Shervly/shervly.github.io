@@ -25,7 +25,8 @@ table.shlist th{
     border: 80px #e9f0e7;
     background-color:#0e2803;
     color: #da9954;
-    border-collapse:collapse
+    border-collapse:collapse;
+    margin: auto
 }    
 table.shlist td{ 
     text-align: center;
@@ -62,7 +63,9 @@ div#redred{
 
 }
 .shgroup {
-    background-color: #1a2c12;
+    color: #1a2c12;
+    
+    
 } 
 
 
